@@ -1,0 +1,6 @@
+C:\Users\Franco\Documents\GitHub> cd 3354-git
+C:\Users\Franco\Documents\GitHub\3354-git [master ↑]> git status
+On branch master
+Your branch is ahead of 'origin/master' by 1 commit.
+  (use "git push" to publish your local commits)
+nothing to commit, working tree clean
