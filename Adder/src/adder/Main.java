@@ -11,7 +11,7 @@ public class Main {
         }
         catch (Exception e)
         {
-            System.err.println("Please provide a list of integers to add");
+            System.err.println("Input is invalid" + "/nThere are not enough integers to add or subtract(-)");
         }
     }
 
